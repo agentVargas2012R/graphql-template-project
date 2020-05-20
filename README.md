@@ -7,7 +7,10 @@ Next steps:
      http://bit.ly/prisma-server-overview
 
 
-Your Prisma endpoint is live:
+### NodeJS API URLS
+  http://localhost:4000
+
+### Your Prisma endpoint is live:
 
   HTTP:  http://localhost:4466
   WS:    ws://localhost:4466
